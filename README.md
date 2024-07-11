@@ -4,22 +4,24 @@ This project investigates Social Buzz's large dataset to uncover insights. Socia
 
 Accenture has begun a three-month initial engagement to:
 
-Audit their big data practice.
-Provide recommendations for a successful IPO.
-Analyze their content categories, highlighting the top 5 categories with the largest aggregate popularity.
+<li>Audit their big data practice.
+<li>Provide recommendations for a successful IPO.
+<li>Analyze their content categories, highlighting the top 5 categories with the largest aggregate popularity.
+
 This project focuses on the last mentioned objective.
 
-Project Approach
+<h1>Project Approach</h1>
+
 I tackled the problem using a structured 5-step approach:
 
-Data Understanding:
+<li>Data Understanding:
 Comprehend the data model and domain specifics.
-Data Cleaning:
-Clean and prepare datasets for accurate analysis.
+<li>Data Cleaning:
+-Clean and prepare datasets for accurate analysis.
 Data Modelling:
-Process and structure data to answer business questions effectively.
+-Process and structure data to answer business questions effectively.
 Data Analysis:
-Uncover insights and create visualizations from the cleaned data.
+-Uncover insights and create visualizations from the cleaned data.
 Business Recommendations:
 Translate insights into actionable business strategies.
 How to Use This Repository
