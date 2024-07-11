@@ -1,4 +1,4 @@
-Overview
+<h1>Overview</h1>
 
 This project investigates Social Buzz's large dataset to uncover insights. Social Buzz is a rapidly growing social media unicorn with 500 million monthly active users, needing effective scaling strategies.
 
@@ -12,21 +12,23 @@ This project focuses on the last mentioned objective.
 
 <h1>Project Approach</h1>
 
-I tackled the problem using a structured 5-step approach:
+This problem was tackled using a structured 5-step approach:
 
 <li>Data Understanding:
 Comprehend the data model and domain specifics.
 <li>Data Cleaning:
--Clean and prepare datasets for accurate analysis.
-Data Modelling:
--Process and structure data to answer business questions effectively.
-Data Analysis:
--Uncover insights and create visualizations from the cleaned data.
-Business Recommendations:
+Clean and prepare datasets for accurate analysis.
+<li>Data Modelling:
+Process and structure data to answer business questions effectively.
+<li>Data Analysis:
+Uncover insights and create visualizations from the cleaned data.
+<li>Business Recommendations:
 Translate insights into actionable business strategies.
-How to Use This Repository
-Data Analysis Scripts
+
+<h1> How to Use This Repository</h1>
+
+<li>Data Analysis Scripts
 Located in the Analysis directory.
 Scripts for data cleaning, modelling, and analysis are provided.
-Presentation
+<li>Presentation
 A PDF containing the project presentation is included in the Presentation directory.
