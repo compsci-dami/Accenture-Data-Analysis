@@ -2,7 +2,7 @@
 
 This project investigates Social Buzz's large dataset to uncover insights. Social Buzz is a rapidly growing social media unicorn with 500 million monthly active users, needing effective scaling strategies.
 
-Accenture has begun a three-month initial engagement to:
+Main objectives:
 
 <li>Audit their big data practice.
 <li>Provide recommendations for a successful IPO.
